@@ -1,0 +1,19 @@
+[
+	{
+		"object_type": "member",
+		"attributes": [
+			{
+				"name": "tags",
+				"callback": "getMemberTags"
+			},
+			{
+				"name": "biography",
+				"callback": "getMemberBiography"
+			},
+			{
+				"name": "featured_work",
+				"callback": "getMemberFeaturedWork"
+			}
+		]
+	}
+]
